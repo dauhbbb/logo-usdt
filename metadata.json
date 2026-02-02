@@ -1,8 +1,7 @@
 {
   "name": "USDT",
   "symbol": "USDT",
-  "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called "stable coins." Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or "tether" the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain.
-Unlike other cryptos, it is [according to the official Tether site] "100% backed by USD" (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can't deal in dollars and with banks (for example to the sometimes controversial but leading exchange Bitfinex)",
+  "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars.",
   "image": "https://raw.githubusercontent.com/dauhbbb/logo-usdt/main/logo.png",
   "seller_fee_basis_points": 0,
   "properties": {
@@ -15,3 +14,4 @@ Unlike other cryptos, it is [according to the official Tether site] "100% backed
     "category": "image"
   }
 }
+
